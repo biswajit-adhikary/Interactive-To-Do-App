@@ -21,7 +21,6 @@ taskInput.addEventListener("keypress", function (event) {
 taskList.addEventListener("click", handleTaskClick);
 
 // --- Core Functions ---
-
 // Function to generate a simple unique identifier
 function generateUUID() {
   return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function (c) {
@@ -100,7 +99,6 @@ function handleTaskClick(event) {
 }
 
 // --- Local Storage Functions ---
-
 // Function to save the current list of tasks to Local Storage
 function saveTasks() {
   const tasks = [];

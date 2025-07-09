@@ -20,6 +20,10 @@ A clean and interactive To-Do List web app built with **HTML**, **CSS**, and **J
 - CSS3
 - Vanilla JavaScript (ES6)
 
+## 🚀 Demo
+
+[Live Demo](#) — https://biswajit-adhikary.github.io/Interactive-To-Do-App/
+
 ---
 
 ## 📸 Screenshot
@@ -27,13 +31,3 @@ A clean and interactive To-Do List web app built with **HTML**, **CSS**, and **J
 ![Random Quote Generator Screenshot](screenshot.png)
 
 ---
-
-## 📂 Folder Structure
-
-/interactive-todo-app
-│
-├── index.html # Main HTML file
-├── style.css # App styling
-├── script.js # App logic and localStorage
-├── screenshot.png # App preview
-└── README.md # Project documentation
